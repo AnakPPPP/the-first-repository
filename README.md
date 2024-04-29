@@ -1,2 +1,2 @@
 # the-first-repository
-meu primeiro repositorio... :P
+meu primeiro repositorio... não se preocupe estou aprendendo
